@@ -18,6 +18,9 @@ Your application should do the following:
 
 >Have get methods to display the name, email, and mailbox capacity
 
+
+
+
 **Project 2: Student Database Application**
 
 ***Scenario: You are a Database Administrator for a university and need to
@@ -47,6 +50,9 @@ Your application should do the following:
 >The student should be able to view their balance and pay the tuition
 
 >To see the status of the student, we should see their name, ID, courses enrolled, and balance
+
+
+
 
 **Project 3: Bank Account Application**
 
