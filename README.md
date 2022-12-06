@@ -1,7 +1,7 @@
 # JavaProjects
 Java projects added, git commands, pull requests and merging are tried in this repo.
 
-#Project 1: Email Application
+**Project 1: Email Application**
 
 ***Scenario: You are an IT Support Administrator Specialist and are
 charged with the task of creating email accounts for new hires***
@@ -17,7 +17,7 @@ Your application should do the following:
 
 >Have get methods to display the name, email, and mailbox capacity
 
-#Project 2: Student Database Application
+**Project 2: Student Database Application**
 
 ***Scenario: You are a Database Administrator for a university and need to
 create an application to manage student enrollments and balance.***
