@@ -1,5 +1,5 @@
 # JavaProjects
-Java projects added, git commands, pull requests and merging are tried in this repo.
+Java projects added, git commands, pull requests and merging are practiced in this repo.
 
 
 **Project 1: Email Application**
