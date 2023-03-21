@@ -98,6 +98,8 @@ Learning objectives:
 
 >Generate random numbers and work with String API
 
+**Project 4: Bills Burger Challenge**
+
 
 ![image](https://user-images.githubusercontent.com/46569497/226593077-9ce37743-0f35-4056-a217-e7cc40fd993d.png)
 
