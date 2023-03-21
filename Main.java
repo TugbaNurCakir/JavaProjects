@@ -4,6 +4,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
 
+import BillsBurgerChallenge.Burger;
+import BillsBurgerChallenge.Item;
+import BillsBurgerChallenge.MealOrder;
 import bankaccountapp.Account;
 import bankaccountapp.Checking;
 import bankaccountapp.Savings;
@@ -44,7 +47,7 @@ public class Main{
 
 
         //Read a CSV File then create new accounts based on that data
-        List<Account> accounts = new LinkedList<Account>();
+/*         List<Account> accounts = new LinkedList<Account>();
 
 
         String file = "C:\\Users\\10121332\\NewBankAccounts.csv";
@@ -68,6 +71,32 @@ public class Main{
         for (Account account : accounts) {
             System.out.println("\n**********************");
             account.showInfo();
-        }
+        } */
+/* 
+        
+        Item coke = new Item("drink", "coke", 1.50);
+        coke.printItem();
+        coke.setSize("LARGE");
+        coke.printItem();
+
+        Item avocado = new Item("Topping", "avocado", 1.50);
+        avocado.printItem();
+ */
+       
+//        Burger burger = new Burger("regular", 4.00);
+//        burger.addToppings("BACON", "CHEESE", "MAYO");
+//        burger.printItem();
+
+//        MealOrder regularMeal = new MealOrder();
+//        regularMeal.addBurgerToppings("BACON", "CHEESE", "MAYO");
+//        regularMeal.setDrinkSize("LARGE");
+//        regularMeal.printItemizedList();
+
+        MealOrder secondMeal = new MealOrder("turkey", "7-up",
+        "chili");
+        secondMeal.addBurgerToppings("LETTUCE", "CHEESE", "MAYO");
+        secondMeal.setDrinkSize("SMALL");
+        secondMeal.printItemizedList();
+
     }
 }
