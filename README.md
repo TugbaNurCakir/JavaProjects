@@ -1,7 +1,3 @@
-![image](https://github.com/TugbaNurCakir/JavaProjects/assets/46569497/14083e75-76c4-437f-bfc4-bd3b40b5f6ac)
-screen shot by Tim Buchalka
-
-new rules added to interface rules with JDK 8-9
 
 # JavaProjects
 Java projects added, git commands, pull requests and merging are practiced in this repo.
